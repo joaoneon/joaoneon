@@ -24,7 +24,7 @@
         front-end com React.js no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.</li>
     <li> 🤓 Evoluindo na linguagem C e seu ecossistema.</li>
 </ul>
-<br><br>
+<br><br><br><br>
 <h2 align="center">🛠️ &ensp; <i>Tecnologias</i></h2>
 <img align="right" width="350px" height="250px" alt="anime-coffe"
     src="https://github.com/joaoneon/joaoneon/assets/6489188/5b4d0d86-d55c-48c3-ab8b-6c30ef68badb" />
@@ -161,7 +161,7 @@
         </td>
     </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <h2 align="center"> 📩 &ensp; Contato</h2>
 <img align="right" width="260px"

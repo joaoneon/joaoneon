@@ -194,7 +194,7 @@
 
 <h2 align="center">🗃️ &ensp; Projetos</h2>
 <img align="right" src="https://github.com/joaoneon/joaoneon/assets/6489188/df651d33-02c9-4be7-86ec-1e43a9220644"
-    height="400 px" alt="projects image">
+    height="380 px" alt="projects image">
 <table align="left" height="450px" width="350">
     <tr>
         <td>

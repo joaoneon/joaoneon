@@ -206,7 +206,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/joaoneon/Bubble-sort-teste-mesa" target="_blank">
+            <a href="https://github.com/joaoneon/first-node-project" target="_blank">
                 <img align="center"
                     src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=first-node-project&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
             </a>

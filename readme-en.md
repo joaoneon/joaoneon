@@ -24,11 +24,11 @@
         front-end with React.js at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.</li>
     <li> 🤓 Evolving on C language and its ecosystem.</li>
 </ul>
-<br><br>
+<br><br><br><br>
 <h2 align="center">🛠️ &ensp; <i>Technologys</i></h2>
 <img align="right" width="350px" height="250px" alt="anime-coffe"
     src="https://github.com/joaoneon/joaoneon/assets/6489188/5b4d0d86-d55c-48c3-ab8b-6c30ef68badb" />
-<table align="left" height="250px">
+<table align="center" height="250px">
     <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon" /><br>
@@ -161,7 +161,7 @@
         </td>
     </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 <h2 align="center"> 📩 &ensp; Contact</h2>
 <img align="right" width="260px"

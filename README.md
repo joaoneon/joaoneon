@@ -2,7 +2,7 @@
 <br><br><br>
 
 <h2 align="center">📇 &ensp; <i>Sobre mim</i></h2>
-<img align="right" src="https://github.com/utsusu/utsusu/assets/6489188/171d3d07-ce35-49e1-99a1-7d681cc07776"
+<img align="right" src="https://github.com/joaoneon/joaoneon/assets/6489188/171d3d07-ce35-49e1-99a1-7d681cc07776"
     width="350px" height="250px" alt="analsys anime img">
 <table align="center">
     <tr>
@@ -27,7 +27,7 @@
 <br><br>
 <h2 align="center">🛠️ &ensp; <i>Tecnologias</i></h2>
 <img align="right" width="350px" height="250px" alt="anime-coffe"
-    src="https://github.com/utsusu/utsusu/assets/6489188/5b4d0d86-d55c-48c3-ab8b-6c30ef68badb" />
+    src="https://github.com/joaoneon/joaoneon/assets/6489188/5b4d0d86-d55c-48c3-ab8b-6c30ef68badb" />
 <table align="left" height="250px">
     <tr>
         <td align="center">
@@ -165,7 +165,7 @@
 
 <h2 align="center"> 📩 &ensp; Contato</h2>
 <img align="right" width="260px"
-    src="https://github.com/utsusu/utsusu/assets/6489188/d02bd94d-477b-4aad-a1a1-14372aa7249d" alt="anime coding">
+    src="https://github.com/joaoneon/joaoneon/assets/6489188/d02bd94d-477b-4aad-a1a1-14372aa7249d" alt="anime coding">
 <br><br><br>
 <p align="center">
     <a href="https://www.canva.com/design/DAFjNPB6x5E/uidh_TU5zR0Yl1VEaBOwnw/view?utm_content=DAFjNPB6x5E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
@@ -193,22 +193,22 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; Projetos</h2>
-<img align="right" src="https://github.com/utsusu/utsusu/assets/6489188/df651d33-02c9-4be7-86ec-1e43a9220644"
+<img align="right" src="https://github.com/joaoneon/joaoneon/assets/6489188/df651d33-02c9-4be7-86ec-1e43a9220644"
     height="350px" alt="projects image">
 <table height="650px">
     <tr>
         <td>
-            <a href="https://github.com/utsusu/Bubble-sort-teste-mesa" target="_blank">
+            <a href="https://github.com/joaoneon/Bubble-sort-teste-mesa" target="_blank">
                 <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=utsusu&repo=Bubble-sort-teste-mesa&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=Bubble-sort-teste-mesa&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/utsusu/Bubble-sort-teste-mesa" target="_blank">
+            <a href="https://github.com/joaoneon/Bubble-sort-teste-mesa" target="_blank">
                 <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=utsusu&repo=first-node-project&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=first-node-project&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
             </a>
         </td>
     </tr>

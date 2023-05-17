@@ -28,7 +28,7 @@
 <h2 align="center">🛠️ &ensp; <i>Tecnologias</i></h2>
 <img align="right" width="350px" height="250px" alt="anime-coffe"
     src="https://github.com/joaoneon/joaoneon/assets/6489188/5b4d0d86-d55c-48c3-ab8b-6c30ef68badb" />
-<table align="left" height="250px">
+<table align="center" height="250px">
     <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon" /><br>

@@ -62,6 +62,8 @@
                 </b>
             </sub>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon" /><br>
             <sub>
@@ -70,8 +72,6 @@
                 </b>
             </sub>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon" /><br>
             <sub>
@@ -97,6 +97,8 @@
                 </b>
             </sub>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon" /><br>
             <sub>
@@ -113,8 +115,6 @@
                 </b>
             </sub>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=regex" width="65px" alt="Regex icon" /><br>
             <sub>
@@ -132,6 +132,8 @@
                 </b>
             </sub>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon" /><br>
             <sub>
@@ -167,10 +169,10 @@
 <br><br><br>
 <p align="center">
     <a href="https://www.canva.com/design/DAFjNPB6x5E/uidh_TU5zR0Yl1VEaBOwnw/view?utm_content=DAFjNPB6x5E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
-    target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white"
-        alt="Resume badge">
-</a>
+        target="_blank">
+        <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white"
+            alt="Resume badge">
+    </a>
     <a href="https://www.linkedin.com/in/joao-p-a-c/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Linkedin badge">
@@ -191,7 +193,8 @@
 <br><br><br>
 
 <h2 align="center">🗃️ &ensp; Projetos</h2>
-<img align="right" src="https://github.com/utsusu/utsusu/assets/6489188/df651d33-02c9-4be7-86ec-1e43a9220644" height="450px" alt="projects image">
+<img align="right" src="https://github.com/utsusu/utsusu/assets/6489188/df651d33-02c9-4be7-86ec-1e43a9220644"
+    height="450px" alt="projects image">
 <table height="650px">
     <tr>
         <td>
@@ -201,7 +204,7 @@
             </a>
         </td>
     </tr>
-      <tr>
+    <tr>
         <td>
             <a href="https://github.com/utsusu/Bubble-sort-teste-mesa" target="_blank">
                 <img align="center"
@@ -209,7 +212,3 @@
             </a>
         </td>
     </tr>
-  
-  
-
-  

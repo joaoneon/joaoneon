@@ -195,7 +195,7 @@
 <h2 align="center">🗃️ &ensp; Projetos</h2>
 <img align="right" src="https://github.com/joaoneon/joaoneon/assets/6489188/df651d33-02c9-4be7-86ec-1e43a9220644"
     height="350px" alt="projects image">
-<table height="450px">
+<table height="350px">
     <tr>
         <td>
             <a href="https://github.com/joaoneon/Bubble-sort-teste-mesa" target="_blank">

@@ -211,13 +211,4 @@
                     src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=first-node-project&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
             </a>
         </td>
-    </tr>
-        <tr>
-        <td>
-            <a href="https://github.com/joaoneon/c-piscine-42" target="_blank">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=c-piscine-42&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
-            </a>
-        </td>
-    </tr>
 </table>

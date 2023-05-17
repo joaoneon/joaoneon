@@ -1,4 +1,6 @@
 <h1 align="center"> Hey ! 😲</h1>
+<br><br>
+
 <h2 align="center">📇 &ensp; <i>Sobre mim</i></h2>
 <img align="right" src="https://github.com/utsusu/utsusu/assets/6489188/171d3d07-ce35-49e1-99a1-7d681cc07776"
     width="350px" height="250px" alt="analsys anime img">

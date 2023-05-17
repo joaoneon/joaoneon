@@ -22,7 +22,7 @@
         System analsys and development degree at <a href="https://www.unip.br/" target="_blank">Unip</a>,
         i studied Python and Databases at <a href="https://www.coursera.org/" target="_blank">Coursera</a> and i studied
         front-end with React.js at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.</li>
-    <li> 🤓 Evolving.</li>
+    <li> 🤓 Evolving on C language and its ecosystem.</li>
 </ul>
 <br><br>
 <h2 align="center">🛠️ &ensp; <i>Technologys</i></h2>

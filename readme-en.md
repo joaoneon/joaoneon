@@ -191,11 +191,10 @@
 </p>
 
 <br><br><br>
-
-<h2 align="center">🗃️ &ensp; Projects</h2>
+<h2 align="center">🗃️ &ensp; Projetos</h2>
 <img align="right" src="https://github.com/joaoneon/joaoneon/assets/6489188/df651d33-02c9-4be7-86ec-1e43a9220644"
-    height="350px" alt="projects image">
-<table height="650px">
+    height="380 px" alt="projects image">
+<table align="left" height="450px" width="350">
     <tr>
         <td>
             <a href="https://github.com/joaoneon/Bubble-sort-teste-mesa" target="_blank">
@@ -204,11 +203,20 @@
             </a>
         </td>
     </tr>
-    <tr>
+     <tr>
         <td>
-            <a href="https://github.com/joaoneon/Bubble-sort-teste-mesa" target="_blank">
+            <a href="https://github.com/joaoneon/first-node-project" target="_blank">
                 <img align="center"
                     src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=first-node-project&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400">
             </a>
         </td>
     </tr>
+     <tr>
+        <td>
+            <a href="https://github.com/joaoneon/c-piscine-42" target="_blank">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=c-piscine-42&theme=tokyonight&hide_border=true&show_icons=true">
+            </a>
+        </td>
+    </tr>
+ </table>

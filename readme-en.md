@@ -186,7 +186,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram badge">
     </a>
-    <img src="https://dcbadge.vercel.app/api/shield/137314163755057152?compact=true" alt="Discord badge">
+     <img src="https://dcbadge.vercel.app/api/shield/137314163755057152?compact=true" alt="Discord badge">
 
 </p>
 

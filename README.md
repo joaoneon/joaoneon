@@ -177,7 +177,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Linkedin badge">
     </a>
-    <a href="https://wa.me/5522996112570?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo."
+    <a href="https://wa.me/5511974845839?text=Oie,%20estou%20a%20disposição,%20entre%20em%20contato%20comigo."
         target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
             alt="Whatsapp badge">

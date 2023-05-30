@@ -168,7 +168,7 @@
     src="https://github.com/joaoneon/joaoneon/assets/6489188/d02bd94d-477b-4aad-a1a1-14372aa7249d" alt="anime coding">
 <br><br><br>
 <p align="center">
-    <a href="https://www.canva.com/design/DAFjNPB6x5E/uidh_TU5zR0Yl1VEaBOwnw/view?utm_content=DAFjNPB6x5E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+    <a href="https://www.canva.com/design/DAFkWfbM6hw/sqIC1mcrS3AePqN3u5zILA/edit?utm_content=DAFkWfbM6hw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
         target="_blank">
         <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white"
             alt="Resume badge">
@@ -217,6 +217,22 @@
             <a href="https://github.com/joaoneon/c-piscine-42" target="_blank">
                 <img align="center"
                     src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=c-piscine-42&theme=tokyonight&hide_border=true&show_icons=true">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/joaoneon/42_libft" target="_blank">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=42_libft&theme=tokyonight&hide_border=true&show_icons=true">
+            </a>
+        </td>
+    </tr>
+  <tr>
+        <td>
+            <a href="https://github.com/joaoneon/money-converter-realtime" target="_blank">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=money-converter-realtime&theme=tokyonight&hide_border=true&show_icons=true">
             </a>
         </td>
     </tr>

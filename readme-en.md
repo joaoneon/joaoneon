@@ -197,6 +197,13 @@
 <table align="left" height="450px" width="350">
      <tr>
         <td>
+            <a href="https://github.com/joaoneon/42_so-long" target="_blank">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=42_so-longt&theme=tokyonight&hide_border=true&show_icons=true">
+            </a>
+        </td>
+     <tr>
+        <td>
             <a href="https://github.com/joaoneon/42_born2beroot" target="_blank">
                 <img align="center"
                     src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=42_born2beroot&theme=tokyonight&hide_border=true&show_icons=true">

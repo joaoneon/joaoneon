@@ -196,14 +196,6 @@
 <img align="right" src="https://github.com/joaoneon/joaoneon/assets/6489188/df651d33-02c9-4be7-86ec-1e43a9220644"
     height="380 px" alt="projects image">
 <table align="left" height="450px" width="350">
-    <tr>
-        <td>
-            <a href="https://github.com/joaoneon/42_so-long" target="_blank">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=joaoneon&repo=42_so-long&theme=tokyonight&hide_border=true&show_icons=true">
-            </a>
-        </td>
-    </tr>
          <tr>
         <td>
             <a href="https://github.com/joaoneon/42_born2beroot" target="_blank">
